@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+.banner{
+    background-image: url(https://media.istockphoto.com/id/1430393066/photo/creative-startup-and-team-webinar-on-laptop-for-professional-internet-communication-in-office.jpg?s=612x612&w=0&k=20&c=mCwrbA9A1u4ezzncWOFOBx0NV3sykfx84ZRM_HdkjGw=);
+   background-size: cover;
+   height: 700px;
+   width: 1520px;
+   
+
+}
+.banner h1{
+    padding-top: 300px;
+    padding-left: 200px;
+   
+}
+.banner button{
+    margin-left: 200px;
+    margin-top: 30px;
+   
+}
+
+.banner p{
+    padding-left:200px;
+    padding-left:200px;
+}
+
